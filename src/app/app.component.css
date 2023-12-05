@@ -78,3 +78,8 @@ nz-content {
   background: #fff;
   height: 100%;
 }
+
+.nz-menu-item .anticon {
+  margin-right: 8px;
+}
+
